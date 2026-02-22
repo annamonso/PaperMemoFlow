@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# LaTeX artifacts
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+
+# macOS
+.DS_Store
+
+# Personal files — not committed
+PapersInbox/
+PapersOut/
+
+# Secrets
+.env

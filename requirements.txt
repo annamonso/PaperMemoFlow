@@ -1,0 +1,6 @@
+watchdog>=3.0.0
+PyMuPDF>=1.23.0
+pdfminer.six>=20221105
+requests>=2.31.0
+claude-code-sdk>=0.0.9
+anthropic>=0.40.0
